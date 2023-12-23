@@ -4,6 +4,7 @@
     -webkit-text-stroke:2px black;
     border: 1px black solid;
     background-color: #AA8B56;
+    width: 1330px;
 }
 .mine{
     position: absolute;
